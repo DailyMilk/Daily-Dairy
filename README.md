@@ -6,6 +6,7 @@ In this app you can subscribe a plan for milk like weekely, monthly and yearly. 
 I have used FireBase Cloud Firestore for user database
 
 Screens / Pages of Application:
+
 0. Splash Screen
 1. Login Page
 2. Signup Page
