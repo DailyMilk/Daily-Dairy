@@ -15,14 +15,14 @@ Screens / Pages of Application:
     1. Butter Products
 4. Profile Page
 5. Cart
-    -> Payment Gateway
+    1. Payment Gateway
 6. Subscribed Plan
-    -> Change Plan
-        -> Address & Products Sheet
-    -> Pause Plan
+    1. Change Plan
+        1. Address & Products Sheet
+    2. Pause Plan
 7. Settings
-    -> Complain
-    -> Visit us
-    -> Developers
-    -> Share
-    -> Log out
+    1. Complain
+    2. Visit us
+    3. Developers
+    4. Share
+    5. Log out
